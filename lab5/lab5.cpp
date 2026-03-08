@@ -14,6 +14,9 @@ struct Patient {
     string oms;
     string city;
 };
+int testfunc() {
+    cout << "это тестовое сообщение" << endl;
+}
 
 int main() {
     setlocale(LC_ALL, "Russian");
