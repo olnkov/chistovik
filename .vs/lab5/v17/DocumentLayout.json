@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|solutionrelative:lab5\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|solutionrelative:lab5\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|solutionrelative:lab5\\templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C22A51A3-EE3F-4E05-94E6-F1EAB48F8B1A}|lab5\\lab5.vcxproj|C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\lab5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "templates.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\templates.cpp",
               "RelativeDocumentMoniker": "lab5\\templates.cpp",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "data.txt",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\data.txt",
               "RelativeDocumentMoniker": "lab5\\data.txt",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u0421\u0430\u0448\u0430\\\u0443\u0447\u0435\u0431\u0430\\\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0430 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\\lab5\u002B\\lab5\\data.txt",
               "RelativeToolTip": "lab5\\data.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-02-10T09:31:43.824Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "lab5\\lab5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T09:31:20.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:31:20.53Z"
             }
           ]
         }
