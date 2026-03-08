@@ -1,0 +1,7 @@
+﻿  lab5.cpp
+C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\lab5\lab5.cpp(35,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\lab5\lab5.cpp(38,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\lab5\lab5.cpp(42,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\lab5\lab5.cpp(46,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\lab5\lab5.cpp(50,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5.vcxproj -> C:\Users\user\Desktop\Саша\учеба\структура алгоритмов\lab5\x64\Debug\lab5.exe
